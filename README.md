@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on SaaS workflows in n8n  <br>🤝 Open to collaborating on automations, backends, and AI agents  <br>🧠 Need help with Rust development  <br>🌱 Learning Rust, C, and Assembly  <br>💬 Ask me about Python, Linux, or C  <br>⚡ Fun fact: I dislike Windows but still use it when required  <br>
+🔭 Working on SaaS workflows in n8n  <br>🤝 Open to collaborating on automations, backends, and AI agents  <br>🧠 Need help with Rust development  <br>🌱 Learning Rust, C, and Assembly  <br>💬 Ask me about Python, Linux  <br>⚡ Fun fact: I dislike Windows but still use it when required  <br>
 
 
 ## 🌐 Socials:
