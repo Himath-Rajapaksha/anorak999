@@ -26,8 +26,8 @@
  * Represents me - anorak999
  *
  * @constructor
- * @param {string} location - Negombo, Western Province, Sri Lanka ðŸ‡±ðŸ‡°
- * @param {string} languages - English, Sinhala
+ * @param {string} location - LKR
+ * @param {string} languages - English,
  * @param {string} role - SaaS One Man Show Developer
  * @param {string} currentFocus - Building SaaS applications from scratch
  * @param {string} learning - RUST (yes, the systems language)
