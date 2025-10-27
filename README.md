@@ -197,12 +197,5 @@ If you have any questions about web development, SaaS architecture, Rust, or jus
 </div>
 
 <div align="center">
----
-
-**ðŸ'¼ Open for SaaS Collaborations | ðŸ¦€ Rust Learner | ðŸ§ Linux Enthusiast**
-
-</div>
-
-<div align="center">
 <sub>Credit: <a href="https://github.com/anorak999">anorak999</a> | Last Updated: October 2025</sub>
 </div>
