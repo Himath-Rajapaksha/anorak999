@@ -16,10 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar" src="https://github.com/anorak999/anorak999/assets/your-asset-id/avatar.png" alt="anorak999 avatar">
-  </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+What's+Up%3F;Welcome+to+My+Digital+Workshop;Full+Stack+Developer;SaaS+Architect+%26+Builder;Rust+Enthusiast;One+Man+Show+Creator;Linux+%26+Security+Geek;Arch+Linux+Fan" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+What'[...]  
   </div>
 </div>
 
@@ -156,7 +153,7 @@
     <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anorak999&theme=radical&hide_border=true" alt="GitHub Streak">
   </p>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top L[...]">
     <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anorak999&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos">
   </p>
 </details>
