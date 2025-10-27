@@ -16,7 +16,7 @@
 <br>
 <div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+What'[...]  
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+What's+Up%3F;Welcome+to+My+Digital+Workshop;Full+Stack+Developer;SaaS+Architect+%26+Builder;Rust+Enthusiast;One+Man+Show+Creator;Linux+%26+Security+Geek;Arch+Linux+Fan" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -153,7 +153,7 @@
     <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anorak999&theme=radical&hide_border=true" alt="GitHub Streak">
   </p>
   <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top L[...]">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anorak999&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos">
   </p>
 </details>
@@ -170,18 +170,22 @@ If you have any questions about web development, SaaS architecture, Rust, or jus
 
 <div align="center">
 
-<a href="https://linkedin.com/in/himath.hr@gmail.com">
+<a href="https://www.linkedin.com/in/himath-rajapaksha-b1791235a/">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
+&nbsp;
 <a href="https://x.com/anorak_999">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="Twitter" width="40" height="40"/>
 </a>
+&nbsp;
 <a href="https://instagram.com/anorak_999">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="40" height="40"/>
 </a>
+&nbsp;
 <a href="https://reddit.com/user/DifferentTerm4265">
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="Reddit" width="40" height="40"/>
 </a>
+&nbsp;
 <a href="mailto:himath.hr@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
 </a>
