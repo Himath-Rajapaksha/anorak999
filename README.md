@@ -2,10 +2,6 @@
 	<img src="https://komarev.com/ghpvc/?username=anorak999&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
-<p align="center">
-	<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
-</p>
-
 <div align="center">
 
 ![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
@@ -30,7 +26,7 @@
  * Represents me - anorak999
  *
  * @constructor
- * @param {string} location - Negombo, Western Province, Sri Lanka 🇱🇰
+ * @param {string} location - Negombo, Western Province, Sri Lanka ðŸ‡±ðŸ‡°
  * @param {string} languages - English, Sinhala
  * @param {string} role - SaaS One Man Show Developer
  * @param {string} currentFocus - Building SaaS applications from scratch
@@ -192,10 +188,6 @@ If you have any questions about web development, SaaS architecture, Rust, or jus
 
 </div>
 
-## Feedback Welcome
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg">**
-
 </details>
 
 </details>
@@ -207,7 +199,7 @@ If you have any questions about web development, SaaS architecture, Rust, or jus
 <div align="center">
 ---
 
-**💼 Open for SaaS Collaborations | 🦀 Rust Learner | 🐧 Linux Enthusiast**
+**ðŸ'¼ Open for SaaS Collaborations | ðŸ¦€ Rust Learner | ðŸ§ Linux Enthusiast**
 
 </div>
 
