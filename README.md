@@ -1,201 +1,21 @@
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=anorak999&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
 
-<div align="center">
+## Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/uvzaFm7d) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anorak_999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himath-rajapaksha-b1791235a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/DifferentTerm4265) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@anoraK_999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himath.hr@gmail.com) 
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+# Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat&logo=vitest&logoColor=FCC72B) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=anorak999&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=anorak999&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<details>
-<summary>Open Profile</summary>
+### Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br>
-<div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=00D9FF&center=true&vCenter=true&width=500&lines=Hey%2C+What's+Up%3F;Welcome+to+My+Digital+Workshop;Full+Stack+Developer;SaaS+Architect+%26+Builder;Rust+Enthusiast;One+Man+Show+Creator;Linux+%26+Security+Geek;Arch+Linux+Fan" alt="Typing SVG" /></a>
-  </div>
-</div>
+### Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anorak999&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
-<details>
-<summary>About Me</summary>
+---
+[![](https://visitcount.itsvg.in/api?id=anorak999&icon=3&color=12)](https://visitcount.itsvg.in)
 
-<div align="left">
-
-```rust
-/**
- * Represents me - anorak999
- *
- * @constructor
- * @param {string} location - LKR
- * @param {string} languages - English,
- * @param {string} role - SaaS One Man Show Developer
- * @param {string} currentFocus - Building SaaS applications from scratch
- * @param {string} learning - RUST (yes, the systems language)
- * @param {string} lookingToCollaborate - SaaS base application ideas (Got one? Let's build it!)
- * @param {string} helpNeeded - RUST learning & SaaS architecture
- * @param {string} askMeAbout - Python, Bash, Linux, Pentesting Tools
- * @param {string} interests - Web Development, Security, System Programming
- * @param {string} hobbies - Coding, Learning new tech, Linux customization
- * @param {string} funFact - Arch Linux enthusiast
- * @param {string} approachable - Yes! Open to exciting collaborations
- * @param {string} strength - Fast learner, adaptable
- * @param {string} weakness - Too many project ideas
- *
- * @throws {Bug} No bugs escape my terminal
- *
- * @returns {Developer} anorak999
- */
-```
-
-</div>
-
-</details>
-
-<details>
-<summary>Tools & Technologies</summary>
-<div>
-  <p style="display: inline-block;" align="center">
-    <kbd>
-      <kbd>Programming Languages</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=rust" alt="rust" title="Rust"/>
-      <img width="30" src="https://skillicons.dev/icons?i=python" alt="python" title="Python"/>
-      <img width="30" src="https://skillicons.dev/icons?i=ts" alt="typescript" title="TypeScript"/>
-      <img width="30" src="https://skillicons.dev/icons?i=js" alt="javascript" title="JavaScript"/>
-      <img width="30" src="https://skillicons.dev/icons?i=cpp" alt="cpp" title="C++"/>
-      <img width="30" src="https://skillicons.dev/icons?i=cs" alt="csharp" title="C#"/>
-      <img width="30" src="https://skillicons.dev/icons?i=go" alt="go" title="Go"/>
-    </kbd>
-    <kbd>
-      <kbd>Frontend & Frameworks</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" title="Next.js"/>
-      <img width="30" src="https://skillicons.dev/icons?i=react" alt="react" title="React"/>
-      <img width="30" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" title="Tailwind CSS"/>
-      <img width="30" src="https://skillicons.dev/icons?i=html" alt="html" title="HTML5"/>
-      <img width="30" src="https://skillicons.dev/icons?i=css" alt="css" title="CSS3"/>
-    </kbd>
-    <kbd>
-      <kbd>Backend & APIs</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" title="Node.js"/>
-      <img width="30" src="https://skillicons.dev/icons?i=express" alt="express" title="Express"/>
-      <img width="30" src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" title="NestJS"/>
-      <img width="30" src="https://skillicons.dev/icons?i=graphql" alt="graphql" title="GraphQL"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="rest" title="REST API"/>
-    </kbd>
-    <kbd>
-      <kbd>Database & Caching</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=postgres" alt="postgres" title="PostgreSQL"/>
-      <img width="30" src="https://skillicons.dev/icons?i=mysql" alt="mysql" title="MySQL"/>
-      <img width="30" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" title="MongoDB"/>
-      <img width="30" src="https://skillicons.dev/icons?i=redis" alt="redis" title="Redis"/>
-      <img width="30" src="https://skillicons.dev/icons?i=supabase" alt="supabase" title="Supabase"/>
-    </kbd>
-    <br>
-    <br>
-    <kbd>
-      <kbd>Cloud & Deployment</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS"/>
-      <img width="30" src="https://skillicons.dev/icons?i=gcp" alt="gcp" title="Google Cloud"/>
-      <img width="30" src="https://skillicons.dev/icons?i=vercel" alt="vercel" title="Vercel"/>
-      <img width="30" src="https://skillicons.dev/icons?i=docker" alt="docker" title="Docker"/>
-      <img width="30" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx"/>
-    </kbd>
-    <kbd>
-      <kbd>DevOps & Tools</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=git" alt="git" title="Git"/>
-      <img width="30" src="https://skillicons.dev/icons?i=github" alt="github" title="GitHub"/>
-      <img width="30" src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" title="GitLab"/>
-      <img width="30" src="https://skillicons.dev/icons?i=githubactions" alt="githubactions" title="GitHub Actions"/>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="gitlabci" title="GitLab CI"/>
-    </kbd>
-    <kbd>
-      <kbd>Design & Other Tools</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=figma" alt="figma" title="Figma"/>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" alt="gimp" title="GIMP"/>
-      <img width="30" src="https://skillicons.dev/icons?i=vscode" alt="vscode" title="VS Code"/>
-      <img width="30" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman"/>
-    </kbd>
-    <kbd>
-      <kbd>Terminal & Scripts</kbd>
-      <br>
-      <br>
-      <img width="30" src="https://skillicons.dev/icons?i=bash" alt="bash" title="Bash"/>
-      <img width="30" src="https://skillicons.dev/icons?i=vim" alt="vim" title="Vim"/>
-      <img width="30" src="https://skillicons.dev/icons?i=linux" alt="linux" title="Linux"/>
-      <img width="30" src="https://skillicons.dev/icons?i=md" alt="markdown" title="Markdown"/>
-    </kbd>
-  </p>
-</div>
-</details>
-
-<details>
-  <summary>GitHub Stats</summary>
-  <br>
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats">
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=anorak999&theme=radical&hide_border=true" alt="GitHub Streak">
-  </p>
-  <p align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anorak999&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-    <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=anorak999&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos">
-  </p>
-</details>
-
-<details>
-  <summary>Let's Connect</summary>
-<br>
-
-## Work Together
-
-If you have any questions about web development, SaaS architecture, Rust, or just want to chat about tech, feel free to reach out! I'm always open to interesting conversations and collaborations.
-
-**How to reach me:**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/himath-rajapaksha-b1791235a/">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://x.com/anorak_999">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" alt="Twitter" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/anorak_999">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="https://reddit.com/user/DifferentTerm4265">
-  <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/reddit.svg" alt="Reddit" width="40" height="40"/>
-</a>
-&nbsp;
-<a href="mailto:himath.hr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40"/>
-</a>
-
-</div>
-
-</details>
-
-</details>
-
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
-</div>
-
-<div align="center">
-<sub>Credit: <a href="https://github.com/anorak999">anorak999</a> | Last Updated: October 2025</sub>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
