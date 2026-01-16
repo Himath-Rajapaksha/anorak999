@@ -12,9 +12,6 @@
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anorak999&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=anorak999&icon=3&color=12)](https://visitcount.itsvg.in)
 
