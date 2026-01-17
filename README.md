@@ -14,7 +14,7 @@ Implementation-focused SaaS architect and systems programmer. Prefer CLI-first w
 - Mobile/Embedded: React Native, Arduino/C
 
 ## Environments & Paradigms
-- Arch Linux / GNU/Linux / POSIX kernels
+- Arch Linux / GNU/Linux
 - Memory safety, concurrency, high-performance systems
 
 ## Infrastructure & Persistence
