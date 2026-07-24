@@ -10,11 +10,11 @@ Developer & security researcher building tools that live close to the metal.
 
 | Project | Description |
 |---------|-------------|
-| [m0d](https://github.com/anorak999/m0d) | High-performance skeuomorphic music player built in Rust |
-| [sentinel-detection-layer](https://github.com/anorak999/sentinel-detection-layer) | eBPF-based kernel telemetry for adversarial research |
-| [MacTop](https://github.com/anorak999/MacTop) | macOS-style global menu for GNOME Shell |
-| [widgy](https://github.com/anorak999/widgy) | Glassmorphic desktop widgets for GNOME |
-| [tommy](https://github.com/anorak999/tommy) | GPU-accelerated terminal emulator with WebGPU |
+| [m0d](https://github.com/Himath-Rajapaksha/m0d) | High-performance skeuomorphic music player built in Rust |
+| [sentinel-detection-layer](https://github.com/Himath-Rajapaksha/sentinel-detection-layer) | eBPF-based kernel telemetry for adversarial research |
+| [MacTop](https://github.com/Himath-Rajapaksha/MacTop) | macOS-style global menu for GNOME Shell |
+| [widgy](https://github.com/Himath-Rajapaksha/widgy) | Glassmorphic desktop widgets for GNOME |
+| [tommy](https://github.com/Himath-Rajapaksha/tommy) | GPU-accelerated terminal emulator with WebGPU |
 
 ### Connect
 
